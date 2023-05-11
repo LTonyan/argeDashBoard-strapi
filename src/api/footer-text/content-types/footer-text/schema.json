@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "footer_texts",
+  "info": {
+    "singularName": "footer-text",
+    "pluralName": "footer-texts",
+    "displayName": "FooterText",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "footer_text": {
+      "type": "text",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}
